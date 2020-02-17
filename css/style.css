@@ -11,6 +11,13 @@ html, body {
     font-size: 3rem;
     padding-bottom: .8rem;
 }
+.formulaire .form-group {
+    margin-left: .3rem;
+    margin-right: .3rem;
+}
+.footer {
+    background: #000;
+}
 .section2 {
 
 }
