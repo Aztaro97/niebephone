@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>construction concept. engineering tools</caption>
+  <note>construction concept. engineering tools</note>
+  <place/>
+  <categories>
+    <category value="architect"/>
+    <category value="architecture"/>
+    <category value="blueprint"/>
+    <category value="concept"/>
+    <category value="construction"/>
+    <category value="design"/>
+    <category value="designer"/>
+    <category value="document"/>
+    <category value="draft"/>
+    <category value="drafting"/>
+    <category value="drawings"/>
+    <category value="engineer"/>
+    <category value="engineering"/>
+    <category value="floor"/>
+    <category value="home"/>
+    <category value="house"/>
+    <category value="housing"/>
+    <category value="improvement"/>
+    <category value="measurement"/>
+    <category value="paper"/>
+    <category value="plans"/>
+    <category value="print"/>
+    <category value="project"/>
+    <category value="sketch"/>
+    <category value="symbol"/>
+    <category value="technology"/>
+    <category value="tool"/>
+    <category value="tools"/>
+    <category value="work"/>
+    <category value="workshop"/>
+  </categories>
+</comment>

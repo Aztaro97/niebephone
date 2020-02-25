@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Jumeirah Beach Residence</caption>
+  <note>Jumeirah Beach Residence. Dubai, United Arab Emirates</note>
+  <place/>
+  <categories>
+    <category value="gcc"/>
+    <category value="uae"/>
+    <category value="gulf"/>
+    <category value="beach"/>
+    <category value="dubai"/>
+    <category value="marina"/>
+    <category value="arabia"/>
+    <category value="skyline"/>
+    <category value="property"/>
+    <category value="highrise"/>
+    <category value="jumeirah"/>
+    <category value="buildings"/>
+    <category value="residence"/>
+    <category value="cityscape"/>
+    <category value="skyscrapers"/>
+    <category value="residential"/>
+    <category value="middle east"/>
+    <category value="real estate"/>
+    <category value="united arab emirates"/>
+  </categories>
+</comment>
