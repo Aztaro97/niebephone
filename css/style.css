@@ -3,6 +3,10 @@ html, body {
     background-image: url('../images/5570.jpg');
     background-attachment: fixed ;
 }
+.carousel-item {
+    height: 500px;
+    background-color: rgb(21, 27, 27);
+}
 .SpotToggle i {
     font-size: 2rem;
     color: #fff;
